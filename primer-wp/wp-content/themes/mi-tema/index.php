@@ -1,1 +1,2 @@
-<h1>hola mundo</h1>
+<?php get_header() ?>
+<?php get_footer() ?>
